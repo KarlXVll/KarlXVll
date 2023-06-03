@@ -1,3 +1,1 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/iOUqmzxqdywhy/giphy.gif" width="300"/>
-</div>
+<img src="{[BadgeURLHere](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)}" />
