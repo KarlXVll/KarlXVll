@@ -1,1 +1,3 @@
-<img src="{[BadgeURLHere](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)}" />
+<div id="header" align="center">
+  <img src="{[BadgeURLHere](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)}" />
+</div>
