@@ -2,18 +2,24 @@
 
 A junior backend developer from Russia, based in Saint Petersburg.
 
+## Contact me
+
+<a href="https://t.me/tatarinaoa" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" alt="telegram" width="40" height="40"/> </a>
+
 
 ## Tools
 
 <a href="https://github.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
 <a href="https://visualstudio.microsoft.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/></a>
 <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/></a>
-<a href="https://www.eclipse.org/ide/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" alt="Eclipse IDE" width="40" height="40"/></a>
+<a href="https://www.eclipse.org/ide/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-plain.svg" alt="Eclipse IDE" width="40" height="40"/></a>
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/></a>
-<a href="https://maven.apache.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" alt="Maven" width="40" height="40"/></a>
+<a href="https://maven.apache.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original-wordmark.svg" alt="Maven" width="40" height="40"/></a>
+
 
 ## Technology Stack
 
+<a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
 <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>
 <a href="https://www.java.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
 <a href="https://html.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/></a>
@@ -27,9 +33,17 @@ A junior backend developer from Russia, based in Saint Petersburg.
 
 ## Stats
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=KarlXll&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="KarlXll" /></p>
-<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KarlXll&theme=material-palenight&hide_border=false" alt="KarlXll" /></p>
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarlXll&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="KarlXll" /></p>
+<p align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KarlXll&theme=default" alt="KarlXll's GitHub stats">
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KarlXll&theme=default" alt="KarlXll's GitHub stats">
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KarlXll&theme=default" alt="KarlXll's GitHub stats">
+  </a>
+</p>
 
 
  Last Updated on 04/06/2023
