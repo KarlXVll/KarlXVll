@@ -33,17 +33,7 @@
 
 ## Stats
 
-<p align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KarlXll&theme=default" alt="KarlXll's GitHub stats">
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KarlXll&theme=default" alt="KarlXll's GitHub stats">
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KarlXll&theme=default" alt="KarlXll's GitHub stats">
-  </a>
-</p>
+[![KarlXVll's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarlXVll)](https://github.com/KarlXVll/github-readme-stats)
 
 
  Last Updated on 04/06/2023
