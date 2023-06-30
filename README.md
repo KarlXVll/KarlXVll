@@ -1,10 +1,9 @@
 # Hi, I'm KarlXVll
 
-A junior backend developer from Russia, based in Saint Petersburg.
 
 ## Contact me
 
-<a href="https://t.me/tatarinaoa" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" alt="telegram" width="40" height="40"/> </a>
+<a href="https://t.me/tatarinaoa" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/telegram.svg" alt="telegram" width="40" height="40"/> </a>
 
 
 ## Tools
@@ -12,9 +11,10 @@ A junior backend developer from Russia, based in Saint Petersburg.
 <a href="https://github.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
 <a href="https://visualstudio.microsoft.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/></a>
 <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/></a>
-<a href="https://www.eclipse.org/ide/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-plain.svg" alt="Eclipse IDE" width="40" height="40"/></a>
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/></a>
-<a href="https://maven.apache.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original-wordmark.svg" alt="Maven" width="40" height="40"/></a>
+<a href="https://www.qt.io/" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/qt.svg" alt="Qt" width="40" height="40"/></a>
+<a href="https://developer.android.com/studio/" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/androidstudio.svg" alt="Android Studio" width="40" height="40"/></a>
+
 
 
 ## Technology Stack
