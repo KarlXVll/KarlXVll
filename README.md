@@ -33,7 +33,10 @@
 
 ## Stats
 
-[![KarlXVll's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarlXVll)](https://github.com/KarlXVll/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KarlXVll)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarlXVll&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=KarlXVll)](https://github.com/KarlXVll/github-readme-stats)
+
 
 
  Last Updated on 04/06/2023
